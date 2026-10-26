@@ -1,5 +1,3 @@
-# Portfolio
-
 # 🥗 Mi Nutrición
 
 Una alternativa gratuita, ligera y sin muros de pago para el seguimiento diario de calorías y macronutrientes (proteínas, carbohidratos y grasas), diseñada para ofrecer un registro rápido y sin fricciones.
